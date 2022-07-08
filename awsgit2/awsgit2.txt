@@ -1,0 +1,2 @@
+This is second git collaboration activity with my team.
+I am trying to get better as a cloud engineer who write scripts for automations.
